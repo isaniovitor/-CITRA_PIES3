@@ -19,10 +19,6 @@ CITRA - mobile version
 
 [Acesse aqui](https://www.figma.com/file/OTZgiEHY2xUKu9HhWP7CoS/Mobile-CITRA?node-id=0%3A1)
 
-#### - Plano de medição de qualidade:
-
-[Acesse aqui](https://docs.google.com/document/d/1IwniDq9U7Ex84dcLbj2iSbI6OkJ8L7ka_QdsgOwIjWI/edit)
-
 #### - Repositórios:
 
 #### - Esquema de dados:
